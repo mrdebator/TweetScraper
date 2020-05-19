@@ -1,0 +1,18 @@
+body {
+  background-image:url("starry-sky-998641.jpg");
+  background-size: cover;
+  color: white;
+}
+
+
+table{
+  top:0;
+}
+
+th{
+  padding: 10px;
+}
+
+td{
+  padding: 10px;
+}
